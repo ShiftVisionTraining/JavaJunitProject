@@ -1,5 +1,6 @@
 package com.shiftvision.qa.bank;
 
+import org.junit.jupiter.api.Test;
 import com.shiftvision.qa.exception.ShiftVisionException;
 
 public class Account {
